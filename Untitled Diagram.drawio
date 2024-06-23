@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T15:02:42.752Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="zdFH3Sv0Kfib5L6dHQRO" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T15:06:46.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="ts-SgrB8OjKSRDfdCtat" version="24.6.2" type="github">
   <diagram name="Page-1" id="u6M1MO6243ReOHsA4pYD">
     <mxGraphModel dx="1002" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
         <mxCell id="Ct2QS53CQVYJbWWIBjPT-23" value="User Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="500" y="190" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ct2QS53CQVYJbWWIBjPT-24" value="Talks Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="Ct2QS53CQVYJbWWIBjPT-24" value="User Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="500" y="30" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
